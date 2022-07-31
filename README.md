@@ -42,5 +42,4 @@ The goal of this assignment is to put in practice the concepts listed below.
 
 ### App Preview
   
-![](https://www.canva.com/design/DAFIAR_id9c/mhjlW-Ng9vXAcNWXYYTAng/watch?utm_content=DAFIAR_id9c&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 
