@@ -10,7 +10,8 @@ You can find the material for this course at this link: https://drive.google.com
 These are my solutions for all the assignments for the CS193p-2017-2018 course using UIKit, Storyboard, swift, and Xcode. If you taking this course on your own, as I did, I hope this helps you. 
 
 _____________________
---------------------
+![Stanford-Repository](https://user-images.githubusercontent.com/82669898/182040789-d621cd55-94f1-4abd-8288-b307494a3735.png)
+_____________________
 
 
 # Assignment 1: Concentration
