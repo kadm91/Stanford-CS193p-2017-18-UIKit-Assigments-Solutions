@@ -1,4 +1,4 @@
-# Stanford-CS193p-2017-18-UIKit-Assigments-Solutions
+## Stanford-CS193p-2017-18-UIKit-Assigments-Solutions
 
 
 This Stanford course has everything you need to get you fully started in iOS Development. Every lesson is well explained with code demos and how Paul Hegarty explains the concepts of swift and UIKit is just amazing. 
@@ -9,7 +9,7 @@ You can find the material for this course at this link: https://drive.google.com
 
 These are my solutions for all the assignments for the CS193p-2017-2018 course using UIKit, Storyboard, swift, and Xcode. If you taking this course on your own, as I did, I hope this helps you. 
 
-----------
+_____________________
 
 # Assignment 1: Concentration
 
