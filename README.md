@@ -1,12 +1,17 @@
 # Stanford-CS193p-2017-18-UIKit-Assigments-Solutions
 
-This are my solution for all the assignments for the CS193p-2017-18 course using UIKit, Storyboard, swift and Xcode. Such an exelent course. 
+
+This Stanford course has everything you need to get you fully started in iOS Development. Every lesson is well explained with code demos and how Paul Hegarty explains the concepts of swift and UIKit is just amazing. 
+
+These are my solutions for all the assignments for the CS193p-2017-2018 course using UIKit, Storyboard, swift, and Xcode. If you taking this course on your own, as I did, I hope this helps you. 
+
+
 
 # Assignment 1: Concentration
 
-This is the first assigment of the course and is base in the first 2 or 3 lessons. 
+The goal of this assignment is to put in practice the concepts listed below.
 
-## Learned Concepts:
+### Learned Concepts:
 
 * UIViewController - subclass
 * UILabel and UIButton
@@ -29,6 +34,6 @@ This is the first assigment of the course and is base in the first 2 or 3 lesson
 * Type conversion (e.g. from UInt to Int)
 * Stack View and (simple) autolayout
 
-## App Preview
+### App Preview
 
 
