@@ -30,12 +30,12 @@ The goal of this assignment is to put in practice the concepts listed below.
 * didSet
 * for in (and ..< CountableRange syntax)
 * Array<Element> and Dictionary<key, value>
-* [Element]and[Key:Value]syntax
+* [Element] and [Key:Value]syntax
 * initialization of struct and class
 * viewDidLoad
 * Optionals (including implicitly-unwrapped Optionals)
 * ?? optional defaulting operator
-* // TODO (comment)
+* // TODO 
 * arc4random() ( extention to create a random Int number)
 * Type conversion (e.g. from UInt to Int)
 * Stack View and (simple) autolayout
