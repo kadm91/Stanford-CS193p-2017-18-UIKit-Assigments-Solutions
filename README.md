@@ -42,6 +42,6 @@ The goal of this assignment is to put in practice the concepts listed below.
 
 ### App Preview
   
-
+![](https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif)
 
 
