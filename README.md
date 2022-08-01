@@ -61,5 +61,18 @@ These are my solutions for all the assignments for the CS193p-2017-2018 course u
 <img src="https://github.com/kadm91/Gif-Images-For-Repositories/blob/main/Set-Game.gif"  width="350" height="660" /> 
 </p>
 
+-----------------------------------------
+ 
+# Assignment  3:  Graphical  Set  Game
+
+### Learned Concepts:
+
+ * Creating a custom UIView with a draw(CGRect) method
+ * Gestures
+ * Understanding the UIView hierarchy
+ * Creating UIViews in code (rather than in Interface Builder)
+ * Drawing with Core Graphics and UIBezierPath 
+ 
+### App Preview 
 
 
