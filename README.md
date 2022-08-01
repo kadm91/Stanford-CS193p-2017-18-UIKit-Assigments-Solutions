@@ -38,7 +38,7 @@ These are my solutions for all the assignments for the CS193p-2017-2018 course u
 
 ### App Preview
  
- <p align="center">
+<p align="center">
 <img src="https://github.com/kadm91/Gif-Images-For-Repositories/blob/main/Assigment1-Memorization.gif"  width="350" height="660" /> 
 </p>
 
@@ -56,6 +56,10 @@ These are my solutions for all the assignments for the CS193p-2017-2018 course u
  * enum
  
 ### App Preview
+
+<p align="center">
+<img src="https://github.com/kadm91/Gif-Images-For-Repositories/blob/main/Set-Game.gif"  width="350" height="660" /> 
+</p>
 
 
 
