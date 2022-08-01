@@ -40,7 +40,5 @@ The goal of this assignment is to put in practice the concepts listed below.
 
 ### App Preview
 
-![](https://github.com/kadm91/Gif-Images-For-Repositories/blob/main/Assigment1-Memorization.gif)
-
-  
+ <img src=“https://github.com/kadm91/Gif-Images-For-Repositories/blob/main/Assigment1-Memorization.gif"  width="350" height="660" /> 
 
