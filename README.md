@@ -13,8 +13,6 @@ These are my solutions for all the assignments for the CS193p-2017-2018 course u
 
 # Assignment 1: Concentration
 
-The goal of this assignment is to put in practice the concepts listed below.
-
 ### Learned Concepts:
 
 * UIViewController - subclass 
@@ -44,4 +42,7 @@ The goal of this assignment is to put in practice the concepts listed below.
 <img src="https://github.com/kadm91/Gif-Images-For-Repositories/blob/main/Assigment1-Memorization.gif"  width="350" height="660" /> 
 </p>
 
+#Assignment 2: Concentration
+
+### Learned Concepts:
 
