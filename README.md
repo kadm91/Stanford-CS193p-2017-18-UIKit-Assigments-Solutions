@@ -48,6 +48,14 @@ These are my solutions for all the assignments for the CS193p-2017-2018 course u
 
 ### Learned Concepts:
 
+ * All the things from Assignment 1, but from scratch this time.
+ * Closures
+ * extension
+ * Using struct to declare constants
+ * Equatable
+ * enum
+ 
+ 
 
 
 
