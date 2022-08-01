@@ -55,7 +55,7 @@ These are my solutions for all the assignments for the CS193p-2017-2018 course u
  * Equatable
  * enum
  
- 
+### App Preview
 
 
 
