@@ -94,3 +94,7 @@ These are my solutions for all the assignments for the CS193p-2017-2018 course u
 * Autolayout
  
 ### App Preview 
+
+<p align="center">
+<img src="https://github.com/kadm91/Gif-Images-For-Repositories/blob/main/Animated-Set-Game.gif"  width="350" height="660" /> 
+</p>
