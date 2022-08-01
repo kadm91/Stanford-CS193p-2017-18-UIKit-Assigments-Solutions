@@ -116,5 +116,5 @@ These are my solutions for all the assignments for the CS193p-2017-2018 course u
 ### App Preview 
 
 <p align="center">
-<img src=""  width="350" height="660" /> 
+<img src="https://github.com/kadm91/Gif-Images-For-Repositories/blob/main/Image-Gallery.gif"  width="1000" height="800" /> 
 </p>
