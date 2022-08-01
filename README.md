@@ -44,7 +44,7 @@ These are my solutions for all the assignments for the CS193p-2017-2018 course u
 
  ----------------------------------------------
  
-# Assignment-2:-Set-Game
+# Assignment  2:  Set  Game
 
 ### Learned Concepts:
 
