@@ -79,3 +79,18 @@ These are my solutions for all the assignments for the CS193p-2017-2018 course u
 <img src="https://github.com/kadm91/Gif-Images-For-Repositories/blob/main/Graphical-Set.gif"  width="350" height="660" /> 
 </p>
 
+ -----------------------------------------
+ 
+# Assignment  4:  Animated  Set  Game
+
+### Learned Concepts:
+
+* UIViewPropertyAnimator
+* UIDynamicAnimator
+* Timer
+* UIView.transition(with:duration:options:animations:completion:) 5. UINavigationController
+* UISplitViewController 7. UITabBarController
+* Segues
+* Autolayout
+ 
+### App Preview 
