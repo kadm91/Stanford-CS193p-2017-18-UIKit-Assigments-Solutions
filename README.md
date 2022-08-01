@@ -15,26 +15,26 @@ These are my solutions for all the assignments for the CS193p-2017-2018 course u
 
 ### Learned Concepts:
 
-* UIViewController - subclass 
-* UILabel and UIButton
-* Targed/Action (@IBAction)
-* OUtlets (@IBOutlet) and Outlet Collections
-* functions and properties (instance variables)
-* let vs var
-* Value type (struct, enum) vs reference type (class)
-* Strong type and type inference
-* didSet
-* for in (and ..< CountableRange syntax)
-* Array<Element> and Dictionary<key, value>
-* [Element] and [Key:Value]syntax
-* initialization of struct and class
-* viewDidLoad
-* Optionals (including implicitly-unwrapped Optionals)
-* ?? optional defaulting operator
-* // TODO 
-* arc4random() ( extention to create a random Int number)
-* Type conversion (e.g. from UInt to Int)
-* Stack View and (simple) autolayout
+ * UIViewController - subclass 
+ * UILabel and UIButton
+ * Targed/Action (@IBAction)
+ * OUtlets (@IBOutlet) and Outlet Collections
+ * functions and properties (instance variables)
+ * let vs var
+ * Value type (struct, enum) vs reference type (class)
+ * Strong type and type inference
+ * didSet
+ * for in (and ..< CountableRange syntax)
+ * Array<Element> and Dictionary<key, value>
+ * [Element] and [Key:Value]syntax
+ * initialization of struct and class
+ * viewDidLoad
+ * Optionals (including implicitly-unwrapped Optionals)
+ * ?? optional defaulting operator
+ * // TODO 
+ * arc4random() ( extention to create a random Int number)
+ * Type conversion (e.g. from UInt to Int)
+ * Stack View and (simple) autolayout
 
 ### App Preview
  
@@ -47,4 +47,7 @@ These are my solutions for all the assignments for the CS193p-2017-2018 course u
 # Assignment  2:  Set  Game
 
 ### Learned Concepts:
+
+
+
 
