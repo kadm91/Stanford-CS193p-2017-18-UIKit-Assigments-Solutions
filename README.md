@@ -98,3 +98,23 @@ These are my solutions for all the assignments for the CS193p-2017-2018 course u
 <p align="center">
 <img src="https://github.com/kadm91/Gif-Images-For-Repositories/blob/main/Animated-Set-Game.gif"  width="350" height="660" /> 
 </p>
+ 
+  -----------------------------------------
+ 
+# Assignment  5:  Image  Gallery
+
+### Learned Concepts:
+
+ * Drag and Drop
+ * Collection View
+ * Table View
+ * Text Field
+ * Scroll View
+ * Multithreading
+ * Delegation
+ 
+### App Preview 
+
+<p align="center">
+<img src=""  width="350" height="660" /> 
+</p>
